@@ -15,6 +15,8 @@ export const navLinks: NavLink[] = [
   { label: "Offers", href: "#offers" },
   { label: "About", href: "#about" },
   { label: "Contact", href: "#contact" },
+  { label: "Login", href: "/login" },
+  { label: "Sign Up", href: "/signup" },
 ];
 
 export const primaryCTA = {
